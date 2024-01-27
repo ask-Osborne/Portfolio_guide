@@ -4,11 +4,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ## 📚 Table of Contents
 
-### 🛠 Data Engineering
-| Project                | Completion Date | Tools                                          | Description                                       |
-|------------------------|------------------|------------------------------------------------|---------------------------------------------------|
-| [Uber Taxi](Link)       | May 2023          | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processing NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modeling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
-
 ### 💾 SQL
 | Project                                                  | Area of Analysis                     | Description                                                                                                                                                                                   |
 |----------------------------------------------------------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -28,6 +23,11 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | [Data Science Jobs Exploration](https://github.com/ask-Osborne/Data-Science-Jobs-Exploration-)        | Analyzing and exploring trends in data science job postings, including salary distribution, popular job titles, and geographic trends. | [Dashboard link](https://public.tableau.com/app/profile/giftson.osborne.affum/viz/JobsinDataScience/Dashboard2) |
 | [Covid-19 Data Exploration](https://github.com/ask-Osborne/Covid-19_Data_Exploration) |Explored and analyzed global Covid-19 data, answering questions about total cases, death percentages, population infection rates, vaccination statistics, and more. Emphasis on using advanced SQL techniques for insights and Tableau for visualizations | [Dashboard Link 1](https://public.tableau.com/app/profile/giftson.osborne.affum/viz/CoronavirusDataViz/Dashboard1) [Link 2](https://www.novypro.com/project/coronavirus-data-viz) |
 
+
+### 🛠 Data Engineering
+| Project                | Completion Date | Tools                                          | Description                                       |
+|------------------------|------------------|------------------------------------------------|---------------------------------------------------|
+| [Uber Taxi](Link)       | May 2023          | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processing NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modeling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
 ## 🌟 Closing Words
 
 Thank you for exploring my data portfolio! If you have any questions, suggestions, or if you'd like to collaborate, feel free to reach out. You can find me on [LinkedIn](https://www.linkedin.com/in/giftson-osborne-affum-6b1853183/) or via email at [osbornekwetey@gmail.com](mailto:osbornekwetey@gmail.com).
