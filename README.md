@@ -26,7 +26,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project                               | Description                                                          | Dashboard Link                                      |
 |---------------------------------------|----------------------------------------------------------------------|------------------------------------------------------|
 | [Maven Unicorn Challenge](Link)        | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualized key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Maven Unicorn Challenge Dashboard](Link to Dashboard) |
-| [Covid-19 and the Impact on Malaysia Stock Market](Link) | A project close to 🏡 home. Inspired by Alex Freberg's Data Exploration Project, I analyzed global and local Covid-19 cases in Malaysia and the impact on the KLSE stock market from Jan 2020 to Jul 2021 using SQL and Tableau. | [Covid-19 Impact Dashboard](Link to Dashboard) |
+| [Covid-19 Data Exploration](https://github.com/ask-Osborne/Covid-19_Data_Exploration) |Explored and analyzed global Covid-19 data, answering questions about total cases, death percentages, population infection rates, vaccination statistics, and more. Emphasis on using advanced SQL techniques for insights and Tableau for visualizations | [Covid-19  Dashboard Link 1](https://public.tableau.com/app/profile/giftson.osborne.affum/viz/CoronavirusDataViz/Dashboard1) [Link 2](https://www.novypro.com/project/coronavirus-data-viz) |
 
 ## 🌟 Closing Words
 
